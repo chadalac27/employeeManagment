@@ -4,6 +4,8 @@
 
 This project can manage an employee database that includes categories for departments and roles. Employees, roles and departments can be added, updated, and viewed via the terminal.
 
+![emplymgt gif](https://user-images.githubusercontent.com/12057073/101566918-b9c39100-3984-11eb-8f24-e6c0cd1dd5d5.gif)
+
 ## Table of Contents
 
 * [Installation](#installation)
