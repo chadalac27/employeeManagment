@@ -1,0 +1,27 @@
+{
+  "name": "employeemanagment",
+  "version": "1.0.0",
+  "description": "Easy to use management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadalac27/employeeManagment.git"
+  },
+  "keywords": [
+    "employee",
+    "Management"
+  ],
+  "author": "Chad Coleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chadalac27/employeeManagment/issues"
+  },
+  "homepage": "https://github.com/chadalac27/employeeManagment#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
