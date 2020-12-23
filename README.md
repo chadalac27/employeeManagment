@@ -4,6 +4,8 @@
 
 This project can manage an employee database that includes categories for departments and roles. Employees, roles and departments can be added, updated, and viewed via the terminal.
 
+![emplymgt gif](https://user-images.githubusercontent.com/12057073/101566918-b9c39100-3984-11eb-8f24-e6c0cd1dd5d5.gif)
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -19,7 +21,7 @@ Simply clone the repository
 ## Usage
 Run 'node index.js' in the 'employee-manage' directory. You will be presented with the options to add, view, or update various items in the database. Schema and seed files are included to populate the database initially.
 
-NOTE: For the purpose of development, all data relevant to the server was kept private and will need to be set up in lines 7-11 of the index.js file prior to usage.
+
 
 ## Contributions
 No contributions are currently accepted
